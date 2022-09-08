@@ -1,1 +1,1 @@
-# vanilla-jS testing
+# vanilla-js testing
